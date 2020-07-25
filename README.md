@@ -1,1 +1,5 @@
-# promineo_tech_SQLWeek2
+# Promineo Tech - Back-end Program - mySQL Week 2
+
+## Homework Assignment
+
+Project: To focus 
